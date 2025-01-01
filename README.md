@@ -1,3 +1,9 @@
+Three important flex box properties
+1. display flex
+2. Flex-direction
+3. Flex-wrap
+4. justify-Content
+5. align items: stretch by default, flex-start, flex-end, center, baseline, e.t.c
 <style>
         /* justify-content horizontal alignment
         flex-start (default) flex-end
