@@ -1,7 +1,7 @@
 Three important flex box properties
 
 1. display: flex
-2. Flex-direction: row (default), row-revers, column, column-reverse
+2. Flex-direction: row (default), row-revers, column, column-reverse, e.t.c
 3. Flex-wrap: no-wrap(default), wrap
 4. justify-Content: space-evenly, space-around, space-between, e.t.c
 5. align items: stretch by default, flex-start, flex-end, center, baseline, e.t.c
